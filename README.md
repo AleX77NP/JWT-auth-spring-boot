@@ -1,3 +1,3 @@
-### Spring Boot example for JWT Authorization with Spring Security
+## Spring Boot example for JWT Authorization with Spring Security
 
-## It uses Auth0 Maven jwt dependency
+### It uses Auth0 Maven jwt dependency
